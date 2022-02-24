@@ -1,0 +1,2 @@
+train = get_data('/content/dataset/Train')
+val = get_data('/content/dataset/Test')
